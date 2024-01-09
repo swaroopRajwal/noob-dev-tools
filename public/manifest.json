@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Noob Dev Tools",
+  "description": "Daily use browser dev tools",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon.png",
+      "19": "icon.png",
+      "38": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": [
+    "scripting", "storage"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}
