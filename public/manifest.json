@@ -14,7 +14,7 @@
     }
   },
   "permissions": [
-    "scripting", "storage"
+    "scripting"
   ],
   "host_permissions": [
     "http://*/*",
