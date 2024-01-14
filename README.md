@@ -1,5 +1,7 @@
 # Noob Dev Tools
 
+[Install](https://chromewebstore.google.com/detail/pcoflkopahgcmbniphgncfmkofaeaflk)
+
 Chrome extension built with -
 
 1. Vite️
